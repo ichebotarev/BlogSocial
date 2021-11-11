@@ -21,12 +21,12 @@ const Header: React.FC = () => {
 
         a {
           text-decoration: none;
-          color: #000;
+          color: #3700ff;
           display: inline-block;
         }
 
         .left a[data-active="true"] {
-          color: gray;
+          color: #3700ff;
         }
 
         a + a {
